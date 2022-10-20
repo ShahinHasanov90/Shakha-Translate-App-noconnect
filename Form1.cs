@@ -26,6 +26,7 @@ namespace Shakha_Translate_App
             {
                 listBox1.Items.Add(dr[0]).ToString();
             }
+            bagla.close();
 
         }
 
