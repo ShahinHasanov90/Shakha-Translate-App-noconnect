@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shakha Translate App", "Shakha Translate App.csproj", "{404CD9CC-A64E-419E-BCB8-D5A8C5A90437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404CD9CC-A64E-419E-BCB8-D5A8C5A90437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404CD9CC-A64E-419E-BCB8-D5A8C5A90437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404CD9CC-A64E-419E-BCB8-D5A8C5A90437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404CD9CC-A64E-419E-BCB8-D5A8C5A90437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BACC9F4F-4564-41E3-9638-9DB3E55D5A94}
+	EndGlobalSection
+EndGlobal
